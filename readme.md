@@ -1,4 +1,4 @@
-![](https://github.com/Gavin1995/tantan-bot/blob/master/recording.png)
+![](https://github.com/Gavin1995/tantan-bot/blob/master/recording.gif)
 
 [![license](https://img.shields.io/github/license/Gavin1995/tantan-bot.svg)](https://github.com/Gavin1995/tantan-bot)
 
