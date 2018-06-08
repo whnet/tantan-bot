@@ -1,4 +1,5 @@
-[![repo size](https://img.shields.io/github/repo-size/Gavin1995/tantan-bot.svg)](https://github.com/Gavin1995/tantan-bot)
+![](https://github.com/Gavin1995/tantan-bot/blob/master/recording.png)
+
 [![license](https://img.shields.io/github/license/Gavin1995/tantan-bot.svg)](https://github.com/Gavin1995/tantan-bot)
 
 # TanTan Bot（【探探】机器人）

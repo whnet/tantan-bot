@@ -12,8 +12,8 @@ StreamHandler(sys.stdout).push_application()
 log = Logger('Logbook')
 wdaClient = wda.Client()
 tantan_session = wdaClient.session('com.yaymedialabs.putong')
-Beauty = 80  # 魅力值
-Age = 18  # 年龄
+Beauty = 70  # 魅力值
+Age = 16  # 年龄
 Gender = 30  # 趋近于0，表示女性
 
 
@@ -43,7 +43,7 @@ def main():
         else:
             log.info('自动忽略️...')  # 780 180
             tantan_session.tap(465, 2028)
-        time.sleep(5)
+        time.sleep(2)
 
 
 if __name__ == '__main__':
