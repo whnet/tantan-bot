@@ -8,6 +8,7 @@
 ## 使用
 
 ### 安装
+
 ```bash
 > git clone git@github.com:Gavin1995/tantan-bot.git
 > pip3.6 install -r requirements.txt
